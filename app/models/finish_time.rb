@@ -1,0 +1,2 @@
+class FinishTime < ApplicationRecord
+end
